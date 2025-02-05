@@ -1,0 +1,4 @@
+[33m7ff6304[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: pull origin main --rebase (start): checkout 7ff630468dfea363c8337c4862d1e11322e68869
+[33m0704d83[m[33m ([m[1;32mmain[m[33m, [m[1;32mgh-pages[m[33m)[m HEAD@{1}: checkout: moving from gh-pages to main
+[33m0704d83[m[33m ([m[1;32mmain[m[33m, [m[1;32mgh-pages[m[33m)[m HEAD@{2}: commit: Initial commit
+[33m9dece89[m[33m ([m[1;31morigin/gh-pages[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{3}: clone: from https://github.com/streetturtle/jekyll-cv-crafter.git

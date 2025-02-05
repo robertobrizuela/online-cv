@@ -25,7 +25,7 @@ career:
       - accomplishment: Passionate and creative, I specialize in dynamic, responsive websites using PHP (Laravel) and Python (Flask). Adaptable and skilled in problem-solving, I deliver innovative solutions for complex projects.
       - accomplishment: Built and maintained RESTful APIs and web services using Python and Flask, enhancing backend functionality and integration capabilities.
   - position: Maintenance Engineer  
-    company: Craft Brewery of Colima
+    company: Cerveceria de Colima
     location: El Trapiche, Colima, México
     dates: October 2023 - December 2023
     summary: Corrective maintenance and organization of preventive maintenance; automation of forms using Google Apps Script, integration with Google Calendar, Sheets, QR codes, etc.
@@ -71,13 +71,13 @@ sideProjects:
     langs: Python/Jupyter/API/Request
 
 education:
-  - name: National Technology of Mexico, Colima Campus
+  - name: National Technological Institute of Mexico, Colima Campus
     degree: Master's degree in Computer Systems
     location: Av. Tecnológico No. 1, Villa de Álvarez, A.P. 10 y 128, C.P. 28976, Villa de Álvarez, Colima.
     dates: 2024 – Present
     link: https://www.colima.tecnm.mx/posgrado/www2015/index.php/posgrado/resumen/1
 
-  - name: National Technology of Mexico, Colima Campus
+  - name: National Technological Institute of Mexico, Colima Campus
     degree: Mechatronics Engineer 
     location: Av. Tecnológico No. 1, Villa de Álvarez, A.P. 10 y 128, C.P. 28976, Villa de Álvarez, Colima.
     dates: 2018 – 2023
