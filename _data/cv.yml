@@ -3,76 +3,82 @@ projectUrl: jekyl-cv-crafter
 
 # leave blank fields which you don't want to fill/be displayed
 person:
-  name: Michelangelo
-  depiction: headshot.png
-  profession: Teenage Mutant Ninja Turtle
-  location: sewers of New York City
-  citizenship: USA
-  email: mikey@tmnt.com
-  site: http://mikeystmnt.com
-  phone: +8-tmnt-mickey
-  github: /streetturtle
-  stackoverflow: /streetturtle
-  linkedin: /streetturtle
+  name: Edgar Roberto Brizuela
+  depiction: me.png
+  profession: Mechatronics Engineer 
+  location: Colima, Colima
+  citizenship: Mexican
+  email: brizuela.edgar@outlook.com
+  # site: http://mikeystmnt.com
+  phone: +52 312 273 8764
+  github: /robertobrizuela
+  stackoverflow: /erbb
+  linkedin: /edgar-brizuela/
 
 career:
- - position: Foot Clan Antagonist
-   company: TMNT inc.
-   location: New York, USA
-   dates: September 2014 - current
-   summary: Physically the smallest of the Turtles and the least mature. Mikey is easily distracted and enthusiastic about... well, pretty much everything. He's also extremely creative. He has a thousand ideas, and every now and then, one of them will be brilliant. This combination of creativity and lack of focus gives him a kind of flow that the other Turtles cannot match. He's a social mutant and more than the others, pines to be part of the real world.
-   accomplishments:
-    - accomplishment: Mikey is the most agile of all his brothers; his training as a ninja helped to balance and improve this, but his skills in skateboarding and dancing also gives Mikey an edge that will often shock his brothers. Mikey is an extremely good fighter. He's got a great knowledge with ninjutsu, which is why he is a good fighter. He may have the most raw talent of the four, but he does not seem to have the skill to develop it.
-    - accomplishment: He refers to himself as the king of pranks. Since he the most funniest of his brothers and he hasn't shown to be wrong since he was able to show his pranking skills against his brothers like water balloons as he wants to prank them all and he was able to use his prank of water ballon to use against the tank of the truck.
- - position: Shredder enemy
-   company: TMNT
-   location: New York, USA
-   dates: October 2012 – September 2014
-   summary: Impulsive, creative and very social, Michelangelo is the heart and soul of the Ninja Turtles. The runt of the litter, he may be the smallest of his mutant brothers, but that doesn't make him the weakest (just harder to catch). Enemies beware! Michelangelo is a master of the Kusarigama, nunchucks with a secret and sharp surprise!
-   accomplishments:
-    - accomplishment: Mikey's skills as a skateboarder and a ninja give him a great ability with balance.
-    - accomplishment: He has the normal ability of a turtle to go into his shell.
+  - position: Freelance Web Developer
+    company: Self-employed
+    location: Colima, Mexico
+    dates: December 2024 – Present
+    summary: Passionate and creative, I specialize in dynamic, responsive websites using PHP (Laravel) and Python (Flask). Adaptable and skilled in problem-solving, I deliver innovative solutions for complex projects.
+    accomplishments:
+      - accomplishment: Passionate and creative, I specialize in dynamic, responsive websites using PHP (Laravel) and Python (Flask). Adaptable and skilled in problem-solving, I deliver innovative solutions for complex projects.
+      - accomplishment: Built and maintained RESTful APIs and web services using Python and Flask, enhancing backend functionality and integration capabilities.
+  - position: Maintenance Engineer  
+    company: Craft Brewery of Colima
+    location: El Trapiche, Colima, México
+    dates: October 2023 - December 2023
+    summary: Corrective maintenance and organization of preventive maintenance; automation of forms using Google Apps Script, integration with Google Calendar, Sheets, QR codes, etc.
+    accomplishments:
+      - accomplishment: Completed the digitization of forms to convert previously physical control checklists on paper into Google Forms, making the process more intuitive and environmentally friendly. Integrated programming languages such as JavaScript and Google Triggers. Digitized the routine checklists for preventive maintenance of machinery (compressors, fillers, star wheels, conveyors, chillers, motors, etc.).
+      - accomplishment: Achieved the first step toward fully digital maintenance control. Using QR codes, the process of accessing form URLs was automated, and future work was planned to integrate artificial intelligence and a database for analytics purposes.
 
 technicalSkills:
   list:
-    - tr: "Impulsive, creative and very social"
-    - tr: "Heart and soul of the Ninja Turtles"
-    - tr: "Master of the Kusarigama and nunchucks"
-    - tr: "Labeled as 'The Wild One' and 'The Party Dude'"
-    - tr: "First of the turtles to taste pizza"
-    - tr: "Very proud of his talent for naming thing"
+    - tr: "Quick learner and self-taught"
+    - tr: "Interest in artificial intelligence models"
+    - tr: "Experience with Arduino, Raspberry Pi, and embedded systems"
+    - tr: "Strong soft skills and teamwork abilities"
+    - tr: "Knowledge of cloud engineering (Google Cloud)"
+    - tr: "Proficient in problem-solving and adaptability"
   backend:
-   - name: Ninjutsu
-     level: 90
-   - name: Kusarigama
-     level: 80
+    - name: Python
+      level: 90
+    - name: Java
+      level: 80
   frontend:
-   - name: Cooking Skills
-     level: 80
-   - name: Pranks
-     level: 90
+    - name: React
+      level: 80
+    - name: Blade
+      level: 90
   other:
-   - name: Shadow Puppet Skill
-     level: 90
-   - name: Teaching
-     level: 100
+    - name: Microsoft Office
+      level: 100
+    - name: Linux
+      level: 80
 
 sideProjects:
-  - name: jekyll-clean-dark
-    description: Theme for Jekyll - static site generator. After creating theme for my blog I shared it on github.
-    link: https://github.com/streetturtle/jekyll-clean-dark
+  - name: flask-library
+    description: Project on Programming Technologies to Integrate the Flask Framework with XAMPP and MySQL 
+    link: https://github.com/robertobrizuela/flask-library
     type: github
-    langs: HTML/CSS/Bootstrap
+    langs: HTML/CSS/MySQL
 
-  - name: number-writing-trainer
-    description: Application which helps with learning foreign numerals. Was created to help with learning how to write french numbers as well as to practice AngularJS.
-    link: http://pavelmakhov.com/number-writing-trainer/#/
-    type: site
-    langs: AngularJS/HTML/CSS/Bootstrap
+  - name: eq-api
+    description: This project uses Python and the requests library to retrieve API data and store it in a Jupyter Notebook for analysis. It focuses on automating data collection and exploring insights through diffrent Python's data manipulation tools. 
+    link: https://github.com/robertobrizuela/eq-api
+    type: github
+    langs: Python/Jupyter/API/Request
 
 education:
-  - name: Master Splinter Academy
-    degree: Mutant Red-Eared Slider
-    location: sewers of New York City
-    dates: 2007 – 2012
-    link: http://tmnt2012series.wikia.com/
+  - name: National Technology of Mexico, Colima Campus
+    degree: Master's degree in Computer Systems
+    location: Av. Tecnológico No. 1, Villa de Álvarez, A.P. 10 y 128, C.P. 28976, Villa de Álvarez, Colima.
+    dates: 2024 – Present
+    link: https://www.colima.tecnm.mx/posgrado/www2015/index.php/posgrado/resumen/1
+
+  - name: National Technology of Mexico, Colima Campus
+    degree: Mechatronics Engineer 
+    location: Av. Tecnológico No. 1, Villa de Álvarez, A.P. 10 y 128, C.P. 28976, Villa de Álvarez, Colima.
+    dates: 2018 – 2023
+    link: https://www.colima.tecnm.mx/oferta/IMCT
